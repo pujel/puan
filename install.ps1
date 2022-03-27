@@ -115,7 +115,6 @@ Please retweet these hashtag, help me stop dictator government!
 
 Write-Host @'
 *****************
-Authors: @Nuzair46, @KUTlime
 *****************
 '@
 
